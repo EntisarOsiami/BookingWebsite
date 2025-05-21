@@ -25,7 +25,7 @@ let links = [
 
 function Footer() {
   return (
-    <footer className="bg-black text-white py-10 mt-20">
+    <footer className="bg-black text-white py-10">
       <div className="max-w-7xl mx-auto px-6">
         <section className="flex flex-col md:flex-row md:justify-between md:items-center gap-6 border-b border-white/10 pb-6">
           <nav className="flex gap-4 flex-wrap text-sm text-gray-300">
